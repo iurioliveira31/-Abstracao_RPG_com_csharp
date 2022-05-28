@@ -1,0 +1,15 @@
+C:\DOTNET-RON\bin\Debug\net6.0\DOTNET-RON.exe
+C:\DOTNET-RON\bin\Debug\net6.0\DOTNET-RON.deps.json
+C:\DOTNET-RON\bin\Debug\net6.0\DOTNET-RON.runtimeconfig.json
+C:\DOTNET-RON\bin\Debug\net6.0\DOTNET-RON.dll
+C:\DOTNET-RON\bin\Debug\net6.0\DOTNET-RON.pdb
+C:\DOTNET-RON\obj\Debug\net6.0\DOTNET-RON.csproj.AssemblyReference.cache
+C:\DOTNET-RON\obj\Debug\net6.0\DOTNET-RON.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET-RON\obj\Debug\net6.0\DOTNET-RON.AssemblyInfoInputs.cache
+C:\DOTNET-RON\obj\Debug\net6.0\DOTNET-RON.AssemblyInfo.cs
+C:\DOTNET-RON\obj\Debug\net6.0\DOTNET-RON.csproj.CoreCompileInputs.cache
+C:\DOTNET-RON\obj\Debug\net6.0\DOTNET-RON.dll
+C:\DOTNET-RON\obj\Debug\net6.0\refint\DOTNET-RON.dll
+C:\DOTNET-RON\obj\Debug\net6.0\DOTNET-RON.pdb
+C:\DOTNET-RON\obj\Debug\net6.0\DOTNET-RON.genruntimeconfig.cache
+C:\DOTNET-RON\obj\Debug\net6.0\ref\DOTNET-RON.dll
